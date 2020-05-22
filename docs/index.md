@@ -4,7 +4,9 @@ pyTigerGraph is a Python package for connecting to TigerGraph databases.
 
 ## Getting Started
 To download pyTigerGraph, simply run:
+
 ```pip3 install pyTigerGraph```
+
 Once the package installs, you can import it and instantiate a connection to your database:
 ```py
 import pyTigerGraph as tg
